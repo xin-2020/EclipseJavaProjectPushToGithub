@@ -7,6 +7,8 @@ public class EclipseJavaProjectPushToGithub {
 
 		System.out.println("hello,github,this is eclipse");
 		
+		System.out.println("hello,eclipse ,this github");
+		
 	}
 
 }
